@@ -20,7 +20,7 @@ The user will login into the website and go through the products available on th
 
 **Team Leader :** Gadiraju Tejaswi
 
-**Team member :** DAMODARAM VYSHNAVI
+**Team member :** Damodaram Vyshnavi
 
 **Team member :** Sriram venkata Divya Sathvika
 
